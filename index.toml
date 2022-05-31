@@ -2037,14 +2037,16 @@ file = "kubejs/startup_scripts/script.js"
 hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
 
 [[files]]
-file = "mods/additional-structures.pw.toml"
-hash = "f4d4911818596a6f4e845008f3980baf2e23e1df5446ef1a3ddd94a3ed01f8ed"
-metafile = true
+file = "mods/ExperienceBugFix-1.18-1.38.0.2.jar"
+hash = "0fadc3667e47c02f3236f74fbc29d1de24e5b330cd898e6cc2ce27e873171dfb"
 
 [[files]]
-file = "mods/advanced-peripherals.pw.toml"
-hash = "8390b3bbeeac78407a6604cc440ae8fa8d923d214d99be9b2aad75054541a77e"
-metafile = true
+file = "mods/Rex's-AdditionalStructures-1.18.2-(v.3.0.3).jar"
+hash = "1824c1096ea9aff3d4dc83406a70dfce76d1c43615493b4c6f5a3d8fe04c70ef"
+
+[[files]]
+file = "mods/advancedperipherals-1.18.2-0.7.15b.jar"
+hash = "486ca7f3f4e073d2e5cf4e510395df546ea8134c5b885380c4e36ac002ff5239"
 
 [[files]]
 file = "mods/ae2-things-forge.pw.toml"
@@ -2327,9 +2329,8 @@ hash = "b3fc89e39c3a0ec11e7970250ab150edd3921416007d81961a8c814967dcb278"
 metafile = true
 
 [[files]]
-file = "mods/eccentric-tome.pw.toml"
-hash = "2036c720a5d77099b9dff7074a57779ba62a1731527c279c94b899f88edcbff8"
-metafile = true
+file = "mods/eccentrictome-1.18.2-1.5.0.jar"
+hash = "15a7177f441e8732840ca15816395849602696ff23cb46db4f8e98bb71d56263"
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
@@ -2352,9 +2353,8 @@ hash = "0f77fdda8cddc19da0339cf172c15c92389a87df139e1ee5abb66429f6537b20"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b574a0f870099ef1e69a167cc43256e9274992283f8735c6aaf692fa990cb838"
-metafile = true
+file = "mods/entityculling-forge-mc1.18-1.5.1.jar"
+hash = "a90510746cc6bb32edfd6513620a9e61dad8050adaab47fc60e11504d446786f"
 
 [[files]]
 file = "mods/expandability.pw.toml"
@@ -2407,11 +2407,6 @@ hash = "5cc2822b0265c3f8202bf41f814e96fb6ff41c86159322bb05bb13d8babc0234"
 metafile = true
 
 [[files]]
-file = "mods/fix-experience-bug.pw.toml"
-hash = "ace65cf55382d75594f2b2429302dd19b8b53c37d1a805fb5a46a766d95d2229"
-metafile = true
-
-[[files]]
 file = "mods/fixed-anvil-repair-cost.pw.toml"
 hash = "ce3008ca6d32f44a807a421fb139b269a477df33601e85fcc9108d8e9bb12d70"
 metafile = true
@@ -2434,11 +2429,6 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "0025a3bc13d27bbc8467e028d23bd0ad8b9063b7ae14a3649dee4e0fc3da29d4"
-metafile = true
-
-[[files]]
-file = "mods/ftb-backups-2.pw.toml"
-hash = "cfdcfde8c34928b25cb37d7b6c6d471a1a178312651e828c18a3f7f89d5ca36e"
 metafile = true
 
 [[files]]
@@ -2465,6 +2455,10 @@ metafile = true
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "e94099ca3e2a2baa133f298728d7e6434e60da33804ba4b2489d1fd857e83ba1"
 metafile = true
+
+[[files]]
+file = "mods/ftbbackups2-forge-1.18.2-1.0.9.jar"
+hash = "4787779e2903b1aef84e513783d72d7d5acb3c2d73dc318a195af047d46238fe"
 
 [[files]]
 file = "mods/functional-storage.pw.toml"
@@ -2677,9 +2671,8 @@ hash = "78e9a00b376b52f532b099a2b930c48df13ea41813326df9cd5ddd999a0e4652"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "25842f38ce879d3d5d71cc2118d65dffda4b2655fd13af8b72758391266d949d"
-metafile = true
+file = "mods/moreoverlays-1.20.5-mc1.18.1.jar"
+hash = "c7badf70c6113b748d41f6354d8ae8d048b3d472f457273eebe93f4d960def19"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
