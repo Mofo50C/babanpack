@@ -1,6 +1,6 @@
 name = "Bad Wither No Cookie - Reloaded"
 filename = "bwncr-3.13.21.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

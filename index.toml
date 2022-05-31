@@ -2070,7 +2070,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "191b7a13538f73f7ca8553e4368d22e8675dcc6778df67e772f4e58b2fcd334a"
+hash = "413eecd61d1b893cb3ed6b2e37f9e9195d2a61295ebd543b00498c4cf9ba0233"
 metafile = true
 
 [[files]]
@@ -2120,7 +2120,7 @@ metafile = true
 
 [[files]]
 file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "fb694b2ac3ce618e01b4284e52025b26fe4bf9721132854836c0a985fdd7fabb"
+hash = "dac70d7fe46f634f183259cd25150c3726c621e4137a76b997a76a02d1a1ade4"
 metafile = true
 
 [[files]]
@@ -2130,12 +2130,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "6438b4903ab9cd6fac47ea2cc08d75554f5f94dc6ae794f012160d9231cc935f"
+hash = "36206ca71c4d9afdc1e65dcf8aef76965ca35a0d314d674fe9f92f10fc8512df"
 metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "e84a0879f2cf7395b74754b86a9a96b2f6d3cfac4229d11f1b2b91983e563908"
+hash = "d7392bdc867d8394caf77e0372c89d2140571b98f8ac82ba3b533da19a1f86d5"
 metafile = true
 
 [[files]]
@@ -2190,12 +2190,12 @@ metafile = true
 
 [[files]]
 file = "mods/clickable-advancements.pw.toml"
-hash = "4776e4abecbfb5261e7e52450d94cf6d4d3640657eba06011649412461bdb154"
+hash = "5424d7b6f8e8c83567c959e0f912a9617b44369b7201498763ff46f05d40a0c8"
 metafile = true
 
 [[files]]
 file = "mods/client-tweaks.pw.toml"
-hash = "ef778bbf8332b839f4a5a69ca5ae2794d65dbb285ac7f349ced60fc1caf17717"
+hash = "ad069dc41f99352ef262bcd674bfdabf526a8202333f673a9c94893458fc2da4"
 metafile = true
 
 [[files]]
@@ -2245,7 +2245,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "9a7b5d7cf2ab9e3a45d4fdaab423c3028967c646b1364b4913cfa83a9df31895"
+hash = "89bc161d8030601641690d6c71d6d4dc2ea7316c774ad1c6e1d6e894a12fd62f"
 metafile = true
 
 [[files]]
@@ -2527,7 +2527,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ea231ad2bdf1567cb6dbffc76dcff7f626b06f249c456a7b71b3211776875d9a"
+hash = "f7a87b198f6827f31dd44ffea52fb75826f33806d4f3abbec1ad74ca5b651bed"
 metafile = true
 
 [[files]]
@@ -2582,7 +2582,7 @@ metafile = true
 
 [[files]]
 file = "mods/lava-clear-view.pw.toml"
-hash = "471b139841039e29e4a05691642f5a265336e9bc4145e487499682143dc67c85"
+hash = "4dfd99c507a1ebbfeafda940978c973954f0f556a4433d4fbf163ca41c5cfc02"
 metafile = true
 
 [[files]]
@@ -2671,6 +2671,11 @@ hash = "78e9a00b376b52f532b099a2b930c48df13ea41813326df9cd5ddd999a0e4652"
 metafile = true
 
 [[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "3b42f95f474715c28c57655539f7c594af9c09ec3b917520b5cb77f6284b16c1"
+metafile = true
+
+[[files]]
 file = "mods/moreoverlays-1.20.5-mc1.18.1.jar"
 hash = "c7badf70c6113b748d41f6354d8ae8d048b3d472f457273eebe93f4d960def19"
 
@@ -2686,7 +2691,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-server-is-compatible.pw.toml"
-hash = "8b9af4d0f8b912ac1ec8fe7ab8291dc7384f9db13e18bf7a8eb4f054d685449f"
+hash = "710ea40d2def14578600d2e6fef5d226554a4a48646c7eba2463805d1743fcd3"
 metafile = true
 
 [[files]]
@@ -2711,7 +2716,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
-hash = "7b92dd5ff3da1b9422d1eb4cc71a60d1aa0ed405417277fb638b2ac8885f84ba"
+hash = "b429af69b8fe423cd300e424de038d16d11f1956717965770528f65048ef9e61"
 metafile = true
 
 [[files]]
