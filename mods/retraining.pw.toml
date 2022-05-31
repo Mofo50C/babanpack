@@ -1,0 +1,13 @@
+name = "Retraining"
+filename = "Retraining-forge-1.18.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d53064254b707dd46f9650bae52cc8d9cac1e161"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3692415
+project-id = 543209

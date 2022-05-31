@@ -1,0 +1,13 @@
+name = "BabanPack"
+author = "Mofo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "54324fe947828643df30b1754ed2117a4437f729255e6c54e2a46f8b3a61e8dc"
+
+[versions]
+forge = "40.1.25"
+minecraft = "1.18.2"

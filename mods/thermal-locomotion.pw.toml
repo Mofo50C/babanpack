@@ -1,0 +1,13 @@
+name = "Thermal Locomotion"
+filename = "thermal_locomotion-1.18.2-1.6.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "876305ce7295779727697747bf18eef9a1934e5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3790304
+project-id = 406959

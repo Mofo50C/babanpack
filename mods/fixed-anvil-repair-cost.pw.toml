@@ -1,0 +1,13 @@
+name = "Fixed Anvil Repair Cost (Forge)"
+filename = "fixedanvilrepaircost_1.18.2-1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2ff3651f4ab135cfee8243da8139962acbc0815"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3669360
+project-id = 390913
