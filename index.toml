@@ -2357,11 +2357,6 @@ file = "mods/entityculling-forge-mc1.18-1.5.1.jar"
 hash = "a90510746cc6bb32edfd6513620a9e61dad8050adaab47fc60e11504d446786f"
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "ce7764f4555f7524f0c9b6f4f1c53c94f520aad620fc2e4a237520083f43aa46"
-metafile = true
-
-[[files]]
 file = "mods/expandability.pw.toml"
 hash = "2ecdf3ae76d4ad10da711a93c966f6306c1bfdec39fe9f6c356000e600bf5844"
 metafile = true
@@ -2673,11 +2668,6 @@ metafile = true
 [[files]]
 file = "mods/more-minecarts.pw.toml"
 hash = "78e9a00b376b52f532b099a2b930c48df13ea41813326df9cd5ddd999a0e4652"
-metafile = true
-
-[[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "3b42f95f474715c28c57655539f7c594af9c09ec3b917520b5cb77f6284b16c1"
 metafile = true
 
 [[files]]
