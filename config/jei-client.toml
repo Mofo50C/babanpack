@@ -10,7 +10,7 @@
 	CheatToHotbarUsingHotkeysEnabled = false
 	#How items should be handed to you
 	#Allowed Values: INVENTORY, MOUSE_PICKUP
-	GiveMode = "MOUSE_PICKUP"
+	GiveMode = "INVENTORY"
 	#Max. recipe gui height
 	#Range: > 175
 	RecipeGuiHeight = 350

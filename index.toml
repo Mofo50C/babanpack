@@ -85,6 +85,10 @@ file = "config/aiimprovements-common.toml"
 hash = "08a9f7c6f63bd35d49b15fa5bccd8cdf667f21af0c9a8cb2ab5998eb598ee7c3"
 
 [[files]]
+file = "config/akashictome-common.toml"
+hash = "73219b16a0d68ef382664857d784c7e68504ed66195ab1ea46b458444a0650a3"
+
+[[files]]
 file = "config/apotheosis/apotheosis.cfg"
 hash = "35948bbe3fe437cddf7ac63d5feb055e55ec7a1528859b1f6f5eb96c1caf5c6b"
 
@@ -563,10 +567,6 @@ hash = "ad690615c6e891b97077c02d3918b73a5e1ff796444d2e63abf3d1970ad9eada"
 [[files]]
 file = "config/dustrial_decor-common.toml"
 hash = "0859aa9dc822c15f5ccf26dfc9a6a212b3115ce0c1146fa06651dfca1ee8b9d6"
-
-[[files]]
-file = "config/eccentrictome-common.toml"
-hash = "a73cc614b42bb05d5736c09cb6001c7dd78074694443361c77c0ed6caa5571b5"
 
 [[files]]
 file = "config/enchdesc.json"
@@ -1258,11 +1258,11 @@ hash = "29f885679211fb9cd2e71f15b6de10d8b3e88660e9069b6782d0d3b1aa00a681"
 
 [[files]]
 file = "config/jei-client.toml"
-hash = "f3f154efc2fdf6ae5447072bfe4bae790e768e0b23df1a0ec955b875c2c82968"
+hash = "b9221597267c6958efe3a948a2e30889c342b8d205c12d3cd70916f6786a3f29"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "2dff565edf7f85d84c48864811aae8b29d8ce4b5991046244b73fb29ba911b95"
+hash = "fc2b921209aeecda3aeacd25031e79923276ce2ba3b1e393e1b15a7fd322a195"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -2022,7 +2022,7 @@ hash = "06e82828ffb15c9be9facb16fe677efc1fba4cfeedc22f52199fa6b6c6a9a8a0"
 
 [[files]]
 file = "kubejs/server_scripts/guide_tome.js"
-hash = "baa71179d61079d3254e7dde843c3fd54115f7def710b5b6996f07eec9cf7377"
+hash = "84f1fd8e13a63db2de93e965b556e489e48f74489bf1fbdeae3a2c99572aa078"
 
 [[files]]
 file = "kubejs/server_scripts/settings.js"
@@ -2061,6 +2061,11 @@ metafile = true
 [[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "5fe98822fbe3adef3dcdac8343ca57178cd80b29088f3933a203ec86416ac8c7"
+metafile = true
+
+[[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "c55d8087b3a790472313b0e366fb016acea13dad23b4dfac869422047e7150d0"
 metafile = true
 
 [[files]]
@@ -2116,6 +2121,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "902e82fd9cff5ba26db563e0995ab8c4f632cb68f26bc05c2ce6ed6aae30a425"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
 
 [[files]]
@@ -2327,10 +2337,6 @@ metafile = true
 file = "mods/dustrial-decor.pw.toml"
 hash = "b3fc89e39c3a0ec11e7970250ab150edd3921416007d81961a8c814967dcb278"
 metafile = true
-
-[[files]]
-file = "mods/eccentrictome-1.18.2-1.5.0.jar"
-hash = "15a7177f441e8732840ca15816395849602696ff23cb46db4f8e98bb71d56263"
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
