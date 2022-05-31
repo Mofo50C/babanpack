@@ -2622,7 +2622,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "186cb1642db76bc34f7bfc2fde6b8e0f53cb64d01d30410bf4ca4cbb5b6bd06e"
+hash = "38966ad1ebb1a66f65e498e4c19a79d951f1f9922365119e8250134d815ae2fa"
 metafile = true
 
 [[files]]
@@ -2801,7 +2801,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "ea55d78440fa1289587ff06497b92d9cfe988bb4164fcdddf42dd9dc83fd0779"
+hash = "8b3b87eff25081ebb3dcfc9753d7b7da6b33fa00146c0c0327cb8c2c5057548a"
 metafile = true
 
 [[files]]
