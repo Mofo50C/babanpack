@@ -1446,7 +1446,7 @@ hash = "a98ceb884db879fe5dcc9917edbeaec7a170d879f0661bc119449409765dc56d"
 
 [[files]]
 file = "config/tconstruct-common.toml"
-hash = "42ef8e27ffcc535700ef32a28e111bd6b462aa33b3080ee0029e3594869af179"
+hash = "97233c8d7f3202c77a4fcc9985ee5d8c87a871453844285493f7c05d767e8fff"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -2818,6 +2818,11 @@ metafile = true
 [[files]]
 file = "mods/simple-magnets.pw.toml"
 hash = "f944061d8a9c771c3b9dda67aa65c8512c26f434bee0de33ca57a65fac1e2cab"
+metafile = true
+
+[[files]]
+file = "mods/simple-shops.pw.toml"
+hash = "aa1e35f49f9a82019b3b62a2f52f91ed9c2df9abfd5b29794c75941d1e3ffae4"
 metafile = true
 
 [[files]]
