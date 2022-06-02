@@ -1497,6 +1497,10 @@ file = "config/travel_anchors/common.json5"
 hash = "b84d751c34afb08aa94b7f272f8d8f63b3de537d5cc4df65269fb53daab97a49"
 
 [[files]]
+file = "config/twilightforest-common.toml"
+hash = "b92fab0303126aade48fee443d1802f9e536726c3b54b3ea17e5d221a3fcc4f3"
+
+[[files]]
 file = "config/valhelsia_core-client.toml"
 hash = "0730320ed376d0fc052126a0c94efad5c2735f5419f6a006a7061ae382312bbd"
 
@@ -2878,6 +2882,11 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "88a1d22c971657c0da41a1558cebf78622fa527c67e40e9f15325cde2e848a8c"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "5dd2aa95087d6730ad65a4ba2c085a49c5c9c88625a7413d14299f2c28781d6a"
 metafile = true
 
 [[files]]
