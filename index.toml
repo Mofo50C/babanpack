@@ -2652,12 +2652,12 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "d45cb71d02a44782ec431c3b8eec4b8a25dd3afb5ee08da1b0098fb0e8abf3af"
+hash = "7cb07e0057fd26a99df0cb766365f1abc763650c3b588cd9cf0131abf4803081"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "b9df61cd393c9c7107f096edc33b55bc2e0ed05325a60ca1e47dbc986b271d0a"
+hash = "935d2791de02b4e5a29104673ac780566bd9547a6d8ff33b690788b3638d6687"
 metafile = true
 
 [[files]]
