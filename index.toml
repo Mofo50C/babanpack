@@ -2169,7 +2169,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "a7e9a9ce546f989b095812a0fbc4b878ff94213a39c4d6e7d06ae06224e3ea61"
+hash = "9ac16b020a87d062bbeefa2e42067e60d8c071c7337bf717438a859b58d96e8f"
 metafile = true
 
 [[files]]
@@ -2477,7 +2477,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "60f50a9dad223d2823067b366e1c072e61342dc82734885da5572d0b5785f4a5"
+hash = "55ce78cb1d8885752190a336b1f2d58772a871603bd42649183ed1f22bde96fb"
 metafile = true
 
 [[files]]
