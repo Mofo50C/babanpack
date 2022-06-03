@@ -2041,6 +2041,10 @@ file = "kubejs/startup_scripts/script.js"
 hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
 
 [[files]]
+file = "mods/EasierSleeping-1.18.2-2.1.0.jar"
+hash = "02508b67aa6e0f28728b660f2cdd96fe692e4b67a73b72fcf310b7cf791694bc"
+
+[[files]]
 file = "mods/ExperienceBugFix-1.18-1.38.0.2.jar"
 hash = "0fadc3667e47c02f3236f74fbc29d1de24e5b330cd898e6cc2ce27e873171dfb"
 
@@ -2345,11 +2349,6 @@ metafile = true
 [[files]]
 file = "mods/dustrial-decor.pw.toml"
 hash = "b3fc89e39c3a0ec11e7970250ab150edd3921416007d81961a8c814967dcb278"
-metafile = true
-
-[[files]]
-file = "mods/easier-sleeping.pw.toml"
-hash = "4d264051a17d4df4646fdcc15ef40bb9135d81f161240798afde4166179017ac"
 metafile = true
 
 [[files]]
