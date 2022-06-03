@@ -2926,7 +2926,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "0bfa187a1c847fa9f36a7ef67d387bfc5d988268c21678bfdab8e7acf07be706"
+hash = "5ff519cda8d61c2b4e2384cecc7a0c800560395f7f6c27442736be5b3719280c"
 metafile = true
 
 [[files]]
