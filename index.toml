@@ -2612,12 +2612,12 @@ metafile = true
 
 [[files]]
 file = "mods/little-contraptions.pw.toml"
-hash = "a285cae0aa677f5e9a799272d6029877353a9a470f021700b6863f0393963364"
+hash = "6d9d71fba235859ffcb61730d78e6abbd21b093a9ddf4a3f4de849dcbbb48fde"
 metafile = true
 
 [[files]]
 file = "mods/little-logistics.pw.toml"
-hash = "4789766fd87f23ffaf6fd0a54d5161a2ba05f7dc73cd13f2f2ea37d6727d0289"
+hash = "a5e73a8ff976a32b7fdc266c92baf0fd8623ae36b2859eec1ad51052ace42166"
 metafile = true
 
 [[files]]
