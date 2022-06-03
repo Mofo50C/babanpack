@@ -2203,6 +2203,11 @@ hash = "b6b6d7bc7506ad7c8554dd2cc02ba9dde579af6b3c338387320eca650ee4a17d"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "3b89a809513ccf04ee335449593d0b86bd5372cf407c269a02e41e97439e8091"
+metafile = true
+
+[[files]]
 file = "mods/clickable-advancements.pw.toml"
 hash = "5424d7b6f8e8c83567c959e0f912a9617b44369b7201498763ff46f05d40a0c8"
 metafile = true
@@ -2340,6 +2345,11 @@ metafile = true
 [[files]]
 file = "mods/dustrial-decor.pw.toml"
 hash = "b3fc89e39c3a0ec11e7970250ab150edd3921416007d81961a8c814967dcb278"
+metafile = true
+
+[[files]]
+file = "mods/easier-sleeping.pw.toml"
+hash = "4d264051a17d4df4646fdcc15ef40bb9135d81f161240798afde4166179017ac"
 metafile = true
 
 [[files]]
