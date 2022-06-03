@@ -2467,8 +2467,8 @@ hash = "e94099ca3e2a2baa133f298728d7e6434e60da33804ba4b2489d1fd857e83ba1"
 metafile = true
 
 [[files]]
-file = "mods/ftbbackups2-forge-1.18.2-1.0.9.jar"
-hash = "4787779e2903b1aef84e513783d72d7d5acb3c2d73dc318a195af047d46238fe"
+file = "mods/ftbbackups2-forge-1.18.2-1.0.10.jar"
+hash = "c22da1bb7b620a3458c04728830dbaa0758eb91fa195339410964dfdeee98e47"
 
 [[files]]
 file = "mods/functional-storage.pw.toml"
