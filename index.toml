@@ -2438,7 +2438,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "0025a3bc13d27bbc8467e028d23bd0ad8b9063b7ae14a3649dee4e0fc3da29d4"
+hash = "31cda715e15452f2d927a7e500771638e4791444503b385e674e8d10eabdef0f"
 metafile = true
 
 [[files]]
@@ -2537,7 +2537,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f7a87b198f6827f31dd44ffea52fb75826f33806d4f3abbec1ad74ca5b651bed"
+hash = "ea231ad2bdf1567cb6dbffc76dcff7f626b06f249c456a7b71b3211776875d9a"
 metafile = true
 
 [[files]]
