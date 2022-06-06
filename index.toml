@@ -2485,6 +2485,11 @@ hash = "9e16adbd82cd167089bb1e25a01760eba5e677b5393edfd8c77bf98c0e2efc59"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "55ce78cb1d8885752190a336b1f2d58772a871603bd42649183ed1f22bde96fb"
+metafile = true
+
+[[files]]
 file = "mods/glassential.pw.toml"
 hash = "df0a3492490ee76d36fb4b6d36dc44d0b7edf923b31e512dbb7e55a0c0962f31"
 metafile = true
