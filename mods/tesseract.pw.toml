@@ -1,0 +1,13 @@
+name = "Tesseract"
+filename = "tesseract-1.0.26-forge-mc1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e962e8c2274ede96ad24ce617f8e09c9e41ad74e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3775967
+project-id = 379232

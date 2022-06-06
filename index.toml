@@ -2784,6 +2784,11 @@ hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
 metafile = true
 
 [[files]]
+file = "mods/rebindnarrator.pw.toml"
+hash = "a9141b543f1edbb85f68c8d74d56c2bb84d73262586e61b97d07b9b0b62339f3"
+metafile = true
+
+[[files]]
 file = "mods/retraining.pw.toml"
 hash = "d8e2b3e84d460da339189f989fdc1c3b0ce7d342e297be6afd69f8de9408ee28"
 metafile = true
@@ -2886,6 +2891,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
+metafile = true
+
+[[files]]
+file = "mods/tesseract.pw.toml"
+hash = "a28cc99bad3e90686c30a75f01ec5ab8f079e93c560a38e87b15d5d2475f9489"
 metafile = true
 
 [[files]]
