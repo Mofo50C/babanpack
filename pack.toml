@@ -1,6 +1,6 @@
 name = "BabanPack"
 author = "Mofo"
-version = "1.0.1"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "34e6ceb3f596af77f81ce2daaa25c142a7022afcda17669b3dcd8d1a00a559c1"
 
 [versions]
-forge = "40.1.48"
+forge = "40.1.31"
 minecraft = "1.18.2"
