@@ -22,7 +22,7 @@ const unifiedMetals = [
     unifiedMetal("lead", "thermal:lead_ore", "thermal:lead_block", "thermal:lead_ingot", "thermal:lead_nugget", "thermal:lead_dust", "thermal:lead_plate", "thermal:raw_lead", "thermal:raw_lead_block"),
     unifiedMetal("nickel", "thermal:nickel_ore", "thermal:nickel_block", "thermal:nickel_ingot", "thermal:nickel_nugget", "thermal:nickel_dust", "thermal:nickel_plate", "thermal:raw_nickel", "thermal:raw_nickel_block"),
     unifiedMetal("silver", "thermal:silver_ore", "thermal:silver_block", "thermal:silver_ingot", "thermal:silver_nugget", "thermal:silver_dust", "thermal:silver_plate", "thermal:raw_silver", "thermal:raw_silver_block"),
-    unifiedMetal("uranium", "mekanism:uranium_ore", "immersiveengineering:storage_uranium", 'immersiveengineering:ingot_uranium', 'immersiveengineering:nugget_uranium', 'immersiveengineering:dust_uranium', 'immersiveengineering:plate_uranium', 'immersiveengineering:raw_uranium', 'immersiveengineering:raw_block_uranium'),
+    unifiedMetal("uranium", "mekanism:uranium_ore", "mekanism:block_uranium", 'mekanism:ingot_uranium', 'mekanism:nugget_uranium', 'mekanism:dust_uranium', 'immersiveengineering:plate_uranium', 'mekanism:raw_uranium', 'mekanism:block_raw_uranium'),
     unifiedMetal("bronze", "", "thermal:bronze_block", "thermal:bronze_ingot", "thermal:bronze_nugget", "thermal:bronze_dust", "thermal:bronze_plate", "", ""),
     unifiedMetal("constantan", "", "thermal:constantan_block", "thermal:constantan_ingot", "thermal:constantan_nugget", "thermal:constantan_dust", "thermal:constantan_plate", "", ""),
     unifiedMetal("electrum", "", "thermal:electrum_block", "thermal:electrum_ingot", "thermal:electrum_nugget", "thermal:electrum_dust", "thermal:electrum_plate", "", ""),

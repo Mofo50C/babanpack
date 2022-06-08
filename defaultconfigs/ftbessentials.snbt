@@ -122,7 +122,7 @@
 			cooldown: 600
 			
 			# Default: true
-			enabled: true
+			enabled: false
 			
 			# /rtp max distance from spawn point
 			# Default: 100000

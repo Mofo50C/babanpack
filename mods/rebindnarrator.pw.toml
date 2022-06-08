@@ -1,13 +1,13 @@
 name = "RebindNarrator"
-filename = "rebindnarrator-1.0.jar"
+filename = "rebindnarrator-1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5789f886c9d7e086c2ffd3bd5ef80c3e6ff539f8"
+hash = "f6cf1a4f5a228973bd74c3b12c872cf05a34f558"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3806644
+file-id = 3820518
 project-id = 628113
