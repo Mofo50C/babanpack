@@ -1582,7 +1582,7 @@ hash = "4d531cae3ff5cc47d5e8d8217c7b52d61717f72c2f6de802bc3eab550a3af266"
 
 [[files]]
 file = "defaultconfigs/ensorcellation-server.toml"
-hash = "5f9e9debd7ad3147bbded9706bf0d3861f5f63bbbd748f8200a503035f3a05e1"
+hash = "bf8a11a31c7d354c9bfe81ca1ee5378f8665192fa27dc19ed4ca53387c13a810"
 
 [[files]]
 file = "defaultconfigs/fastleafdecay-server.toml"
