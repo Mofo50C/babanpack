@@ -2294,11 +2294,6 @@ hash = "6260854df98bee184f801f31b6a23459b55381896684ff75ade4a6a09ea665f7"
 metafile = true
 
 [[files]]
-file = "mods/ctm.pw.toml"
-hash = "69b1d8662dcd3faffef4d75fadb0b6057018e591538fc6e4bbad22ac42808ac0"
-metafile = true
-
-[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "7e74b2c44dc50242a8772415ba4c38e328923cab3b1148f6e146cc518bfe8927"
 metafile = true
