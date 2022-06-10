@@ -274,7 +274,7 @@
 
 	[Enchantments.Soulbound]
 		#If TRUE, the Soulbound Enchantment is available.
-		Enable = true
+		Enable = false
 		#This sets whether or not the Enchantment is considered a 'treasure' enchantment.
 		Treasure = false
 		#This option adjusts the maximum allowable level for the Enchantment. If permanent, this setting is ignored.
@@ -295,49 +295,49 @@
 
 	[Overrides.Protection]
 		#If TRUE, the Protection Enchantment is replaced with a more configurable version which works on more items, such as Horse Armor.
-		Enable = true
+		Enable = false
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
 		"Max Level" = 4
 
 	[Overrides."Blast Protection"]
 		#If TRUE, the Blast Protection Enchantment is replaced with a more configurable version which works on more items, such as Horse Armor.
-		Enable = true
+		Enable = false
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
 		"Max Level" = 4
 
 	[Overrides."Feather Falling"]
 		#If TRUE, the Feather Falling Enchantment is replaced with a more configurable version which works on more items, such as Horse Armor.
-		Enable = true
+		Enable = false
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
 		"Max Level" = 4
 
 	[Overrides."Fire Protection"]
 		#If TRUE, the Fire Protection Enchantment is replaced with a more configurable version which works on more items, such as Horse Armor.
-		Enable = true
+		Enable = false
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
 		"Max Level" = 4
 
 	[Overrides."Projectile Protection"]
 		#If TRUE, the Projectile Protection Enchantment is replaced with a more configurable version which works on more items, such as Horse Armor.
-		Enable = true
+		Enable = false
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
 		"Max Level" = 4
 
 	[Overrides."Fire Aspect"]
 		#If TRUE, the Fire Aspect Enchantment is replaced with a more configurable version which works on more items, such as Axes.
-		Enable = true
+		Enable = false
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
 		"Max Level" = 2
 
 	[Overrides."Frost Walker"]
 		#If TRUE, the Frost Walker Enchantment is replaced with an improved and more configurable version which works on more items, such as Horse Armor.
-		Enable = true
+		Enable = false
 		#This sets whether or not the Enchantment is considered a 'treasure' enchantment.
 		Treasure = true
 		#This option adjusts the maximum allowable level for the Enchantment.
@@ -348,21 +348,21 @@
 
 	[Overrides.Knockback]
 		#If TRUE, the Knockback Enchantment is replaced with a more configurable version which works on more items, such as Axes.
-		Enable = true
+		Enable = false
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
 		"Max Level" = 2
 
 	[Overrides.Looting]
 		#If TRUE, the Looting Enchantment is replaced with a more configurable version which works on more items, such as Axes.
-		Enable = true
+		Enable = false
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
 		"Max Level" = 3
 
 	[Overrides.Thorns]
 		#If TRUE, the Thorns Enchantment is replaced with a more configurable version which works on more items, such as Shields and Horse Armor.
-		Enable = true
+		Enable = false
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
 		"Max Level" = 4
