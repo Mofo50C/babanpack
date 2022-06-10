@@ -2648,7 +2648,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "91171e5d72c73abc52a11827527ca1fc1d9e56dda0a6650d0a865a007a1bdcb5"
+hash = "a78496f7293d523580bde775b293cc14932f85ad56690e9c62af3a059f4ea250"
 metafile = true
 
 [[files]]
@@ -2787,7 +2787,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-base.pw.toml"
-hash = "82d40249ec1f5868b156f4f3708fa4d59208ff5781bef9d3a6148eeed6f8ae80"
+hash = "c835ef275c6d2eee653251e2b91efeb8d4043247b94da8ad47042b0f4a26eba6"
 metafile = true
 
 [[files]]
@@ -2852,7 +2852,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "98c397fa94352eb201b12f0efe63b48a27d5c8189ccf33111367793108b3765e"
+hash = "d57312bcf65981dcd1281bd4e4274a6d74bac100cdebd0ded529e556a630dea1"
 metafile = true
 
 [[files]]
