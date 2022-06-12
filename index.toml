@@ -2145,7 +2145,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "d7392bdc867d8394caf77e0372c89d2140571b98f8ac82ba3b533da19a1f86d5"
+hash = "8e86ba4e42a9137a5c4e7a970359f3aa3a4e1c22802d1fa0998d8e76518da260"
 metafile = true
 
 [[files]]
@@ -2155,7 +2155,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "37008de4207bed335256d90d473f2055d35f0c246e15d46ca3bcf38220312f16"
+hash = "9131c77d39b6d4cb198739eda45560416bfc2ee08c6cb5973a2e3435266ea5e5"
 metafile = true
 
 [[files]]
@@ -2216,11 +2216,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
-metafile = true
-
-[[files]]
-file = "mods/clumps.pw.toml"
-hash = "6a9f1b9e10ecf59176bb08c928425b12433aab172433ce475bbf86093fad8e1b"
 metafile = true
 
 [[files]]
@@ -2429,7 +2424,7 @@ metafile = true
 
 [[files]]
 file = "mods/forbidden-arcanus.pw.toml"
-hash = "c8d5a17bcf54617168af01a4c03761a52fe40037e6d85eca33cfa963b4ce77c2"
+hash = "b1c7ca8c6728a7cc606c199f9d6d295932299e662860fda98be0034d7fa264c0"
 metafile = true
 
 [[files]]
@@ -2473,7 +2468,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "56e26d3e9f6b33a40bf316db23f9192199d952a7b67f2ea27409fa48bff6c467"
+hash = "335d51f82803c67fa8a88d6dd3aa403ea2ffdb4bc73b27ba27c928734f51f96d"
 metafile = true
 
 [[files]]
@@ -2578,12 +2573,12 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-thermal.pw.toml"
-hash = "741a70eb1400d1aa163ba5a2fc5aa5ab6c2f62802f11f656be1b2cd5595a6b5d"
+hash = "f7a30dd8ac0e6c211ce7d381591cdfdde700a17589f2c23ffba5037b2ce76feb"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "5cef038a60c866277bea6ee20008eb896078d85021f267848bf61f3a465960b1"
+hash = "e777299e0a4e520015143d8f870f9ff33dafa8f8df374024bf89b529d48a6766"
 metafile = true
 
 [[files]]
@@ -2603,7 +2598,7 @@ metafile = true
 
 [[files]]
 file = "mods/libx.pw.toml"
-hash = "19b046399a2c0c3f9f6e0dd8e536674304172d796f8073215c890fe28b5183f0"
+hash = "005d17b6efee5feadae53d4ac3231f8a180379d09e354d539fbeb09ec78ac974"
 metafile = true
 
 [[files]]
@@ -2638,7 +2633,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "69a72933ee14cbd140fa5a77dd7536d5a5efdfa471a5a35a393c77da5351d2f4"
+hash = "3ec7364a35321749119cfddb6631be0740b6ab422e9a30270c8cd7b30360622e"
 metafile = true
 
 [[files]]
@@ -2802,7 +2797,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "814e18c0f24e41f8d87badeda6824350870b6fc3d929a0dd26c0eafd25973a0c"
+hash = "3703c014ec6754bedf94d694b336603589ca876fbf59cd78f3e9be414ba01059"
 metafile = true
 
 [[files]]
@@ -2892,7 +2887,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "518fb94cc171983120c23526c9f953d9ab6f72537ccdb1e219bec3a677a08312"
+hash = "9743690593e5dabcd360212cce9fb68cd3dbb4d18dbce710e5f79cea631e8ea0"
 metafile = true
 
 [[files]]
