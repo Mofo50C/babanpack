@@ -2037,16 +2037,13 @@ file = "mods/EasierSleeping-1.18.2-2.1.0.jar"
 hash = "02508b67aa6e0f28728b660f2cdd96fe692e4b67a73b72fcf310b7cf791694bc"
 
 [[files]]
-file = "mods/ExperienceBugFix-1.18-1.38.0.2.jar"
-hash = "0fadc3667e47c02f3236f74fbc29d1de24e5b330cd898e6cc2ce27e873171dfb"
-
-[[files]]
 file = "mods/Rex's-AdditionalStructures-1.18.2-(v.3.1.0).jar"
 hash = "e70a234461b3e1f642effc514a30a93ed54fe3f675ec416e45d79837883e2563"
 
 [[files]]
-file = "mods/advancedperipherals-1.18.2-0.7.15b.jar"
-hash = "486ca7f3f4e073d2e5cf4e510395df546ea8134c5b885380c4e36ac002ff5239"
+file = "mods/advancedperipherals.pw.toml"
+hash = "c2c2cf1e7fbc90b3883c2d90904d6b60b89d753f42c576175beb48cc9011694d"
+metafile = true
 
 [[files]]
 file = "mods/ae2-things-forge.pw.toml"
@@ -2354,8 +2351,9 @@ hash = "0f77fdda8cddc19da0339cf172c15c92389a87df139e1ee5abb66429f6537b20"
 metafile = true
 
 [[files]]
-file = "mods/entityculling-forge-mc1.18-1.5.1.jar"
-hash = "a90510746cc6bb32edfd6513620a9e61dad8050adaab47fc60e11504d446786f"
+file = "mods/entityculling.pw.toml"
+hash = "7becbc1a164ee7edf869baac24f0dd2652cc007bfbe11c61deccf1e931226c8f"
+metafile = true
 
 [[files]]
 file = "mods/expandability.pw.toml"
@@ -2433,6 +2431,11 @@ hash = "31cda715e15452f2d927a7e500771638e4791444503b385e674e8d10eabdef0f"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "6f2867d9bae0ad1b6d65c8ebbbf1101b0a458d7d5ea31edc9c8119f3d04da079"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "3a9cb8eb948dcdf388afde4afe2c219b450151288c5c06acdc7ce053afdf2105"
 metafile = true
@@ -2456,10 +2459,6 @@ metafile = true
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "e94099ca3e2a2baa133f298728d7e6434e60da33804ba4b2489d1fd857e83ba1"
 metafile = true
-
-[[files]]
-file = "mods/ftbbackups2-forge-1.18.2-1.0.10.jar"
-hash = "c22da1bb7b620a3458c04728830dbaa0758eb91fa195339410964dfdeee98e47"
 
 [[files]]
 file = "mods/functional-storage.pw.toml"
@@ -2602,6 +2601,11 @@ hash = "005d17b6efee5feadae53d4ac3231f8a180379d09e354d539fbeb09ec78ac974"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "9fade103d8f66b8042e8366ff05a01b1b2e37e546022004e79c51653029ee14b"
+metafile = true
+
+[[files]]
 file = "mods/little-contraptions.pw.toml"
 hash = "6d9d71fba235859ffcb61730d78e6abbd21b093a9ddf4a3f4de849dcbbb48fde"
 metafile = true
@@ -2672,10 +2676,6 @@ hash = "5d716e7827b4557b0835f798f71a6ca66e7b407740bcdae4c35396e91114f26e"
 metafile = true
 
 [[files]]
-file = "mods/moreoverlays-1.20.5-mc1.18.1.jar"
-hash = "c7badf70c6113b748d41f6354d8ae8d048b3d472f457273eebe93f4d960def19"
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
 metafile = true
@@ -2743,6 +2743,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "d4387b349263ad444eecef69632583cecde62fa689cf7589bc04f2cdbdcc2352"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "dc5355c75b3a14c1d0735f6db571f07aae00ca531bdb471aebaf89addcda5a4e"
 metafile = true
 
 [[files]]
