@@ -2105,12 +2105,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a77f2624e859a993e3d03cf7db88f4eea08bdf9d77c1517dbc8428133202f600"
+hash = "322edae5b93ee024db564525ab0cd7775cc8644933bff413ef240d34f6b08e3e"
 metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "a71a8b98e324f1f451e5b49b7ad0809eb269df1164bf514d1f90a77b510fe49c"
+hash = "148b3e16b8ae6e2a0bbee04f9b090cdb89a6cda6218a5e64affb68fe730615ee"
 metafile = true
 
 [[files]]
@@ -2135,7 +2135,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "b03d1788c1655d52f17bcde0285f59d38822d3b2a8eae430a073f69e3e1b8137"
+hash = "131da55792beda303fa3526bf6b413ba43ca0a0a4a0b811f89d7c38dd6fe3df4"
 metafile = true
 
 [[files]]
@@ -2165,7 +2165,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "be269c2560beefeaee25b9ac797cf58142baa56295f5635ba17642f4c12da701"
+hash = "ad3789d2715553129d7b06f31429181564ce1cc0e2c6013387f44ee7f8eb2d18"
 metafile = true
 
 [[files]]
@@ -2260,7 +2260,7 @@ metafile = true
 
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
-hash = "ec52e8743d9d98dc655994df47dc6c6a04c670494e7ff38372b292e45295254b"
+hash = "b6ebcd2b9bd6ef8d11194e95d01059c95a3603cad7ba9b1fb82b8dac6c044536"
 metafile = true
 
 [[files]]
@@ -2275,7 +2275,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "14d1fa99174e40f9eeacd1e3e0afa09b0c2be63c0d9b7fdf0d22f92e02eb995c"
+hash = "e4b89bc3aa13faf8c7abbc3f82ebaba7c954370a38a15293781235dd2ebf9baf"
 metafile = true
 
 [[files]]
@@ -2310,7 +2310,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-utilities.pw.toml"
-hash = "d7132c34f703b1e32601a354360dcaf32e6177d2efde01e945ee48bdb665f454"
+hash = "e2833c422fac87b4b02deaafd00284077172b32ec17775f5dbadaf0d24598106"
 metafile = true
 
 [[files]]
@@ -2374,7 +2374,7 @@ metafile = true
 
 [[files]]
 file = "mods/farming-for-blockheads.pw.toml"
-hash = "ade80478eac085cd5932f3d8a78a1dd1301561fd475e44465a2b604022b7f4b9"
+hash = "f61088c21613f3b3f884e24833f5fd116e13faa1e8e1e5f0f4485f18e3cd2bb5"
 metafile = true
 
 [[files]]
@@ -2548,7 +2548,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "b40167a8d1c8f6b08fb614b291d6f5adc25f36447ca6f4b7fbd445a2041e98f0"
+hash = "ba2d212ca4faa681f718a4acc4b002a8a0aa238250522acaaf522e685620c4bb"
 metafile = true
 
 [[files]]
@@ -2633,7 +2633,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "3ec7364a35321749119cfddb6631be0740b6ab422e9a30270c8cd7b30360622e"
+hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
 metafile = true
 
 [[files]]
@@ -2697,7 +2697,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicbotany.pw.toml"
-hash = "8e680b980266478a23883b54e79110703d960e506e1e49467ef7b4bb5375373b"
+hash = "17fa774f137fa594e8d5c32aa34aff7c52054e0e5052e6d5da3588e9917d206b"
 metafile = true
 
 [[files]]
@@ -2727,7 +2727,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "5ccff87787d6ed5673effe9b8d1cb25c2089d6455231724000f5901a8cacb69e"
+hash = "af80e9023850c864e6b7136396c69694b771596e86279619e981fa48465f24b4"
 metafile = true
 
 [[files]]
@@ -2837,12 +2837,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "0d5a9e76df157a890f179fba01b46fcaab068698f69ea1f79e999f8e4ae610a6"
+hash = "ffc23f3ccdf1d04c0856d81cb23bf0120afc50ef8de258354102f3ccfbfebee7"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d57312bcf65981dcd1281bd4e4274a6d74bac100cdebd0ded529e556a630dea1"
+hash = "9ab2a1eeb68ee98b69221c1907527b304dae910f178382d66ddaca6af361d7c7"
 metafile = true
 
 [[files]]
@@ -2922,7 +2922,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "dc80deed63bfb2ee3578e88d1ae4c0ed7a3fac0e6f5937767950622eeae3292d"
+hash = "4275242bc6cd5ff6a7b23463f3921fc3bced4b9fc2e5f4a634ec5be96d0e21e2"
 metafile = true
 
 [[files]]
@@ -2967,5 +2967,5 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "6bcb34bef6d487faa3394d912259d737c78422a1b707911576c70e92db8811ab"
+hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
 metafile = true

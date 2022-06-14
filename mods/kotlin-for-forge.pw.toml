@@ -1,13 +1,13 @@
 name = "Kotlin for Forge"
-filename = "kotlinforforge-3.5.0-obf.jar"
+filename = "kotlinforforge-3.6.0-obf.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "df5089687a4dd1dcd7a2bce43b0b2042bf5e3ba1"
+hash = "b03fe51fca31dd714a25896a5db79a38a3d15905"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3822982
+file-id = 3829616
 project-id = 351264
