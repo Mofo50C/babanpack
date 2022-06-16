@@ -1,6 +1,6 @@
 name = "Light Overlay"
 filename = "light-overlay-6.0.5-forge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/YfOlc91N/versions/6.0.5-forge/light-overlay-6.0.5-forge.jar"
