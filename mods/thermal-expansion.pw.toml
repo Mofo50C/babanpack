@@ -1,13 +1,13 @@
 name = "Thermal Expansion"
-filename = "thermal_expansion-1.18.2-1.6.1.11.jar"
+filename = "thermal_expansion-1.18.2-1.6.3.13.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7def4c4e5a53c2b9565970fb4ee7f82cdb573255"
+hash = "fe9819c2ac43c75ad6b89f27407bab66a0cebf6f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3803489
+file-id = 3837868
 project-id = 69163
