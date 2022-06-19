@@ -46,9 +46,7 @@ onEvent('recipes', event => {
         event.replaceOutput({}, tagString, pref)
     }
 
-    event.replaceInput({}, "#forge:coal_coke", "#forge:coal_coke")
     event.replaceOutput({}, "#forge:coal_coke", 'immersiveengineering:coal_coke')
-    event.replaceInput({}, '#forge:storage_blocks/coal_coke', '#forge:storage_blocks/coal_coke')
     event.replaceOutput({}, '#forge:storage_blocks/coal_coke', 'immersiveengineering:coke')
 
     unifiedMetals.forEach(metal => {
