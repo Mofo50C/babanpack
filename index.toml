@@ -2106,7 +2106,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "cd2d6ee57cfb73ed272b1a74a9073aad47d9670c4b7e4d9ac91419b4b458d8e7"
+hash = "725e11c2310f713aae3d05d2dd377e5477fb1844f15547a01e7f459128469b56"
 metafile = true
 
 [[files]]
@@ -2166,7 +2166,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "ad3789d2715553129d7b06f31429181564ce1cc0e2c6013387f44ee7f8eb2d18"
+hash = "0dec282523613a58ced861da722d649f23d98d1d34f3957380b1c37ada041887"
 metafile = true
 
 [[files]]
@@ -2301,7 +2301,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "db853a16a69cfc9a2971912f4c853ec0ade4f44808d4e12990d560346bb3168c"
+hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
 metafile = true
 
 [[files]]
@@ -2470,7 +2470,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "335d51f82803c67fa8a88d6dd3aa403ea2ffdb4bc73b27ba27c928734f51f96d"
+hash = "70f6b0517adb2bd924f699dbe70bd984e4d44f6da3c558a3bf3b863515d06d31"
 metafile = true
 
 [[files]]
@@ -2520,7 +2520,7 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "06028bfa8c1d7172fa403fc2f59471f19f9d821d4abad8d8b42938da50d5890e"
+hash = "58d251f8bf64dd502559c97ab1bb67f654b890a10b7fbf1b4684b168a8148c05"
 metafile = true
 
 [[files]]
@@ -2575,7 +2575,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "e777299e0a4e520015143d8f870f9ff33dafa8f8df374024bf89b529d48a6766"
+hash = "ac657b3dda92f86730cd319d5094a72db45fb3524ea06fbe8beff86d49cbae65"
 metafile = true
 
 [[files]]
@@ -2630,7 +2630,7 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
-hash = "881c311b48957cfb0cce81fb2ab361c65df8b5d71377ba6ba5f7a9f464e6d56b"
+hash = "f3c33cdf495f3052a3cc4c35373e3f5383bf59446320f03dba4a4664b768e4b7"
 metafile = true
 
 [[files]]
@@ -2725,7 +2725,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "af80e9023850c864e6b7136396c69694b771596e86279619e981fa48465f24b4"
+hash = "3cc554da0c8cd27dea596caee69e632ba859f85faf127427e5cc3cfcc9df58ed"
 metafile = true
 
 [[files]]
@@ -2755,7 +2755,7 @@ metafile = true
 
 [[files]]
 file = "mods/productivebees.pw.toml"
-hash = "dc8437eb0a8094e8923e4431eb5eecfab48674499b739e672bd1bc1d1f8e6f08"
+hash = "16153b6b85fcd69da9158fe80ed53c373fc0e6df9d5943c6aa0b0f7a50b3f364"
 metafile = true
 
 [[files]]
@@ -2785,7 +2785,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "891d92de59bb908bc532c2056e35703d0f1edc8adb4a92a1b46e95bbdc793118"
+hash = "33065e80ce844f4a20b0a39315d7c2daf15fbd4821c395b1191e77f3e56bfbed"
 metafile = true
 
 [[files]]
@@ -2860,7 +2860,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "9e3bbfbea841d962b594a02092bc75887cf98ce76931e2d9f7b9fc997592d5ac"
+hash = "48140425fdb2faac13b034954f36b55ab58ec09626b6b8f4e715d2db48a45009"
 metafile = true
 
 [[files]]
@@ -2880,7 +2880,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract.pw.toml"
-hash = "a28cc99bad3e90686c30a75f01ec5ab8f079e93c560a38e87b15d5d2475f9489"
+hash = "c96a3fbd359b6b6532f8f44158a1beab2ee1e58c83086e9cce5114344ce5a90e"
 metafile = true
 
 [[files]]
@@ -2971,4 +2971,9 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
+metafile = true
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "49a470a4490012a5458d1198be9e69368c1dbdce38e4b55c20203e3afde2e6d5"
 metafile = true
