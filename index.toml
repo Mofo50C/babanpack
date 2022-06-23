@@ -2470,7 +2470,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "70f6b0517adb2bd924f699dbe70bd984e4d44f6da3c558a3bf3b863515d06d31"
+hash = "89906aa4cc7a1b772767acedb5e7769db8f6c8c896f759208dc6817f689da7ad"
 metafile = true
 
 [[files]]
@@ -2520,7 +2520,7 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "58d251f8bf64dd502559c97ab1bb67f654b890a10b7fbf1b4684b168a8148c05"
+hash = "807f522abc2edfa405791f6c3dc85b8e63c67de60a98af7b0d64007e262a18c7"
 metafile = true
 
 [[files]]
@@ -2575,7 +2575,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "ac657b3dda92f86730cd319d5094a72db45fb3524ea06fbe8beff86d49cbae65"
+hash = "9d2838f80e85bdc138d086caf0475a0b46d6b65743c928f53334e3db6d3457be"
 metafile = true
 
 [[files]]
@@ -2630,7 +2630,7 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
-hash = "f3c33cdf495f3052a3cc4c35373e3f5383bf59446320f03dba4a4664b768e4b7"
+hash = "f8c0d6b577a534a820f47ddd769a3e94cc5d0c0a96ee18c878a866bd4c30bc40"
 metafile = true
 
 [[files]]
