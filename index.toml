@@ -2794,6 +2794,11 @@ hash = "02c1874d3f763289022e9f6e4bbe3515296be8ab091839bcb06ae9ebf08ce3db"
 metafile = true
 
 [[files]]
+file = "mods/rftools-storage.pw.toml"
+hash = "8067e419a5535396c22b1ae43a07cd82dacf97748dc86613f2f8cfa7e06407a2"
+metafile = true
+
+[[files]]
 file = "mods/rftools-utility.pw.toml"
 hash = "ff409d0b2b62eb669282869e3ce7c297cf00bc8ff0113106d66713198b13cde3"
 metafile = true
