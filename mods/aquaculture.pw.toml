@@ -1,13 +1,13 @@
 name = "Aquaculture 2"
-filename = "Aquaculture-1.18.2-2.3.6.jar"
+filename = "Aquaculture-1.18.2-2.3.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1b78e9ed07784ad813bda5754d5678d5a34551e3"
+hash = "66cc81985e0f83982a48f4d1eb5f52e607a32fb6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3750710
+file-id = 3844973
 project-id = 60028
